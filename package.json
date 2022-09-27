@@ -6,9 +6,20 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/jest_spy_and_mocks.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/jest_spy_and_mocks/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/jest_spy_and_mocks#readme",
+  "dependencies": {
+    "axios": "0.27.2"
+  },
   "devDependencies": {
     "jest": "29.0.3"
   }
