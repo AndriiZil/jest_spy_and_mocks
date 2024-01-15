@@ -1,0 +1,26 @@
+{
+  "name": "jest-spy-and-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/jest_spy_and_mocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/jest_spy_and_mocks/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/jest_spy_and_mocks#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.3"
+  }
+}
